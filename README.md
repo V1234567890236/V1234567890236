@@ -14,12 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ***************************************************************
 If you find this tool useful and like to support its continuous
-          development, then consider a donation.
-
-tpruvot@github:
-  BTC  : 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo
-  DCR  : DsUCcACGcyP8McNMRXQwbtpDxaVUYLDQDeU
-
+       
+Moy
 DJM34:
   BTC donation address: 1NENYmxwZGHsKFmyjTc5WferTn5VTFb7Ze
 
